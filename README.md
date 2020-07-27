@@ -3,11 +3,11 @@
 Games created in order to practice or learn something new.
 
 - [C](#c)
-  - High-Low
-  - Password
+  - High-Low - 07/2020
+  - Password - 12/2019
 
 - [Python](#python)
-  - Connect 4
+  - Connect 4 - 09/2019
 
 #### C
 ###### [High-Low](https://github.com/PTortello/Games/tree/master/High-Low)
