@@ -2,6 +2,8 @@
 ## Games
 Games created in order to practice or learn something new.
 
+[Python](#python)
+
 ### C
 ###### [High-Low](https://github.com/PTortello/Games/tree/master/High-Low)
 
@@ -10,3 +12,8 @@ Games created in order to practice or learn something new.
 ###### [Password](https://github.com/PTortello/Games/tree/master/Password)
 
 <img src="/Password/password.png" alt="image" width="250"/>
+
+### Python
+###### [Connect 4](https://github.com/PTortello/Games/tree/master/Connect4)
+
+<img src="/Connect4/connect4.png" alt="image" width="250"/>
