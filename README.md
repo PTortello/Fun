@@ -2,5 +2,6 @@
 ## Games
 Games created in order to practice or learn something new.
 
-- [High-Low](https://github.com/PTortello/Games/tree/master/High-Low)
-- [Password](https://github.com/PTortello/Games/tree/master/Password)
+- C
+  - [High-Low](https://github.com/PTortello/Games/tree/master/High-Low)
+  - [Password](https://github.com/PTortello/Games/tree/master/Password)
