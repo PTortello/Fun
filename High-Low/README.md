@@ -3,4 +3,4 @@
 
 Try to guess a random number from 1 to 100.
 
-<img src="highlow.png" alt="image" width="380"/>
+<img src="highlow.png" alt="image" width="300"/>
