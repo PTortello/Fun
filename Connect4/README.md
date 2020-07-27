@@ -1,4 +1,4 @@
-<!-- Pedro Tortello out/2019->
+<!-- Pedro Tortello out/2019 -->
 ## Connect 4
 
 Try to beat this AI by connecting 4 dots.
