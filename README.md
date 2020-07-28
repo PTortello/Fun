@@ -8,6 +8,7 @@ Games created in order to practice or learn something new.
 
 - [Python](#python)
   - Connect 4 - 09/2019
+  - TManager - 01/2019
 
 #### C
 ###### [High-Low](https://github.com/PTortello/Games/tree/master/High-Low)
@@ -22,3 +23,7 @@ Games created in order to practice or learn something new.
 ###### [Connect 4](https://github.com/PTortello/Games/tree/master/Connect4)
 
 <img src="/Connect4/connect4.png" alt="image" width="250"/>
+
+###### [TManager](https://github.com/PTortello/Games/tree/master/TManager)
+
+<img src="/TManager/tmanager.png" alt="image" width="250"/>
