@@ -1,6 +1,6 @@
 <!-- Pedro Tortello jul/2020 -->
 ## Games
-Games created in order to practice or learn something new.
+Games created in order to practice and learn some new resources.
 
 - [C](#c)
   - High-Low - 07/2020
